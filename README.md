@@ -1,8 +1,13 @@
-Finding Greener Pastures
+#Finding Greener Pastures
 
-IF YOU ARE GRADING THIS PROJECT- The FINAL PRESENTATION FILES folder holds the two final programs to run, PLOTS AND GRAPHS folder holds all of our images and our power point presentation is also here.
+
+The FINAL PRESENTATION FILES folder holds the two final programs to run, PLOTS AND GRAPHS folder holds all of our images and our power point presentation is also here.
 
 In this repository we attempt to find greener pastures for people in the United States using data. We have pulled in information from the Bureau of Labor Statistics, Womply .com, Burning  Glass Employment Services, Gmaps and Numbeo.com.
+
+We used 53 states in the USA to get a score where the best place to live is based on a chosen occupation
+	estimated salary for given occupation types
+	Our data is from 2019
 
 The DATA folder holds any files we were able to pull in without API use.
 
