@@ -4,15 +4,15 @@ The FINAL PRESENTATION FILES folder holds the two final programs to run, PLOTS A
 
 In this repository we attempt to find greener pastures for people in the United States using data. We have pulled in information from the Bureau of Labor Statistics, Womply .com, Burning  Glass Employment Services, Gmaps and Numbeo.com.
 
-We used 53 states in the USA to get a score where the best place to live is based on a chosen occupation
+We used 53 cities in the USA to get a score where the best place to live is based on a chosen occupation
 	estimated salary for given occupation types
 	Our data is from 2019
 
 Page 21 of the powerpoint presentation, found here in Greener-Pastures/Final Presentation files/Greener Pastures Presentation_Group 2.pptx, has our flow chart of how all the data sets work with each other
 
-Greener-Pastures/Final Presentation files/Marker_Map.ipynb holds the data when an occupation is chosen. in in[3] you will have the opportunity to chose which of the 21 occupations you would like to see results for. In the example, #2: Arts, design, entertainment, sports, and media occupations was chosen.
+Greener-Pastures/Final Presentation files/Marker_Map.ipynb holds the data when an occupation is chosen. With in[3] you will have the opportunity to chose which of the 21 occupations you would like to see results for. In the example, #2: Arts, design, entertainment, sports, and media occupations was chosen.
 
-When you scroll down to out[10] you will see the dataframe made from that occupation. It is sorted on the 'OCC VALUE' Column. The 'OCC VALUE' column is the hourly rate for that occupation is that city. In that dataframe you will find all other information as well.
+When you scroll down to out[10] you will see the dataframe made from that occupation. It is sorted on the 'OCC VALUE' Column. The 'OCC VALUE' column is the hourly rate for that occupation is that city. In that dataframe you will find all other information as well. In this same example, Washington DC is the best city to live in for Arts, design, entertainment, sports, and media occupations with an hourly rate of 41.62 while Sacramento CA is the worst with a 20.73 hourly rate for the same occupation.
 
 The DATA folder holds any files we were able to pull in without API use.
 
